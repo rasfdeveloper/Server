@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Blood Mark -->
+	<item id="1">
+		<ingredient id="57" count="50000000"/>
+		<production id="1419" count="1"/>
+	</item>
+	<!-- Alliance Manifesto -->
+	<item id="2">
+		<ingredient id="57" count="100000000"/>
+		<production id="3874" count="1"/>
+	</item>
+	<!-- Seal of Aspiration -->
+	<item id="3">
+		<ingredient id="57" count="150000000"/>
+		<production id="3870" count="1"/>
+	</item>
+        <!-- Egg of Earth -->
+	<item id="4">
+		<ingredient id="57" count="150000000"/>
+		<production id="8166" count="1"/>
+	</item>
+        <!-- Destruction tombstone -->
+	<item id="5">
+		<ingredient id="57" count="150000000"/>
+		<production id="8176" count="1"/>
+	</item>
+        <!-- Dragon's heart: A Grade -->
+	<item id="6">
+		<ingredient id="57" count="150000000"/>
+		<production id="8163" count="1"/>
+	</item>
+        <!-- False nucleus of life: A-Grade -->
+	<item id="7">
+		<ingredient id="57" count="150000000"/>
+		<production id="8169" count="1"/>
+	</item>
+        <!-- Skull of the dead: A Grade -->
+	<item id="8">
+		<ingredient id="57" count="150000000"/>
+		<production id="8160" count="1"/>
+	</item>
+        <!-- Algel's soul: A Grade -->
+	<item id="9">
+		<ingredient id="57" count="150000000"/>
+		<production id="8172" count="1"/>
+	</item>
+        <!-- Cradle of creation	 -->
+	<item id="10">
+		<ingredient id="57" count="150000000"/>
+		<production id="8175" count="1"/>
+	</item>
+        <!-- CLAN REPUTATION -->
+	<item id="11">
+		<ingredient id="57" count="100000"/>
+		<production id="65336" count="1"/>
+	</item>
+</list>

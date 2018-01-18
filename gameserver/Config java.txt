@@ -1,0 +1,12 @@
+
+here is how to fix it:
+
+Go to Start->Control Panel->System->Advanced(tab)->Environment Variables->System
+Variables->New: Variable name: _JAVA_OPTIONS
+
+Variable value: -Xmx512M
+
+Variable name: Path
+Variable value: %PATH%;C:\Program Files\Java\jre6\bin;
+
+Change this to your appropriate path.

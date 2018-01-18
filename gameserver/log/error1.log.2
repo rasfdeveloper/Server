@@ -1,0 +1,13 @@
+Sep 23, 2016 1:29:05 AM net.sf.l2j.gameserver.GameServer <init>
+SEVERE: FATAL: Failed to open server socket. Reason: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at net.sf.l2j.commons.mmocore.SelectorThread.openServerSocket(SelectorThread.java:121)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:360)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:393)
+

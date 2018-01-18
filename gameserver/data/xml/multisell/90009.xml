@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Necklace of Black Ore -->
+	<item id="1">
+		<ingredient id="57" count="1000000"/>
+		<production id="926" count="1"/>
+		
+		
+	</item>
+		<item id="12">
+		<ingredient id="57" count="200000"/>
+		<production id="895" count="1"/>
+	</item>
+		<item id="5">
+		<ingredient id="57" count="200000"/>
+		<production id="864" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<zone type="ChaoticZone" shape="NPoly" minZ="-15000" maxZ="10000"> <!-- Barakiel -->
+	<node X="83495" Y="-85322" />
+        <node X="87837" Y="-85721" />
+        <node X="88877" Y="-84196" />
+        <node X="87585" Y="-81756" />  
+        <node X="89955" Y="-78691" />
+        <node X="93900" Y="-86824" />
+        <node X="89598" Y="-90579" />
+        <node X="84452" Y="-91320" />
+        <node X="82178" Y="-88232" />
+	</zone>
+	
+	<zone type="ChaoticZone" shape="Cylinder" minZ="-6000" maxZ="3000" rad="15000"><!-- Zaken Boss -->
+		<node X="50888" Y="211640" /> 
+	</zone>
+	
+	<zone type="ChaoticZone" shape="NPoly" minZ="-4000" maxZ="-3000"><!-- Antharas Boss - Heart -->
+		<node X="155193" Y="121995" />
+		<node X="155355" Y="121158" />
+		<node X="154779" Y="120124" />
+		<node X="152274" Y="121201" />
+		<node X="153589" Y="119592" />
+		<node X="154674" Y="119412" />
+		<node X="154923" Y="118736" />
+		<node X="154612" Y="118199" />
+		<node X="153937" Y="118082" />
+		<node X="153317" Y="118491" />
+		<node X="152670" Y="118721" />
+		<node X="149497" Y="114855" />
+		<node X="148850" Y="114779" />
+		<node X="148207" Y="115687" />
+		<node X="150872" Y="121016" />
+		<node X="151838" Y="122324" />
+		<node X="155511" Y="122591" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="NPoly" minZ="-8380" maxZ="-4880"><!-- Antharas Boss - Lair -->
+		<node X="173469" Y="110431" />
+		<node X="188081" Y="110284" />
+		<node X="188132" Y="119249" />
+		<node X="173386" Y="119391" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="Cylinder" minZ="9500" maxZ="11061" rad="5000"><!-- Baium Boss -->
+		<node X="114168" Y="15592" />
+	</zone>
+
+	<!-- 184821 -10083 -5497 // 184702 -12170 -5497 -->
+	<zone type="ChaoticZone" shape="NPoly" minZ="-5504" maxZ="-5104"><!-- Anakim and Lilith Boss -->
+		<node X="183938" Y="-13697" />
+		<node X="186190" Y="-13692" />
+		<node X="186176" Y="-8513" />
+		<node X="183920" Y="-8513" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="NPoly" minZ="-2208" maxZ="792"><!-- Valakas Boss - Heart -->
+		<node X="183432" Y="-117590" />
+		<node X="196325" Y="-119107" />
+		<node X="196377" Y="-103657" />
+		<node X="187161" Y="-103538" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="NPoly" minZ="-2572" maxZ="5428"><!-- Valakas Boss - Lair -->
+		<node X="196866" Y="-130845" />
+		<node X="229289" Y="-130860" />
+		<node X="229176" Y="-98508" />
+		<node X="196880" Y="-98498" />
+	</zone>
+
+	<!-- Four Sepulchers -->
+	<zone type="ChaoticZone" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Four Sepulchers 1 -->
+		<node X="181198" Y="-86516" />
+		<node X="192394" Y="-86521" />
+		<node X="192391" Y="-84626" />
+		<node X="181193" Y="-84622" />
+	</zone>
+	
+	<zone type="ChaoticZone" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Four Sepulchers 2 -->
+		<node X="179511" Y="-89903" />
+		<node X="190707" Y="-89908" />
+		<node X="190704" Y="-88013" />
+		<node X="179506" Y="-88009" />
+	</zone>
+	
+	<zone type="ChaoticZone" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Four Sepulchers 3 -->
+		<node X="174498" Y="-82751" />
+		<node X="176622" Y="-82751" />
+		<node X="176616" Y="-71304" />
+		<node X="174489" Y="-71303" />
+	</zone>
+	
+	<zone type="ChaoticZone" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Four Sepulchers 4 -->
+		<node X="172183" Y="-86660" />
+		<node X="174307" Y="-86661" />
+		<node X="174301" Y="-75214" />
+		<node X="172174" Y="-75213" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="NPoly" minZ="-3000" maxZ="-2000"><!-- Imperial Tomb - Frintezza Entrance -->
+		<node X="185091" Y="-77437" />
+		<node X="181569" Y="-74980" />
+		<node X="179760" Y="-77973" />
+		<node X="179760" Y="-79391" />
+		<node X="180981" Y="-81132" />
+		<node X="181131" Y="-81335" />
+		<node X="181390" Y="-81407" />
+		<node X="181633" Y="-81338" />
+		<node X="181790" Y="-81128" />
+		<node X="182080" Y="-80356" />
+		<node X="184972" Y="-79017" />
+		<node X="185091" Y="-78886" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="Cylinder" minZ="-6000" maxZ="4000" rad="3000"><!-- Frintezza Boss -->
+		<node X="174232" Y="-88024" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="Cylinder" minZ="-5900" maxZ="-5650" rad="3000"><!-- Queen Ant Boss -->
+		<node X="-21544" Y="180984" />
+	</zone>
+
+	<zone type="ChaoticZone" shape="Cylinder" minZ="-7000" maxZ="-3000" rad="13000"><!-- Orfen Boss -->
+		<node X="53608" Y="19720" />
+	</zone>
+	
+	<zone type="ChaoticZone" shape="Cylinder" minZ="-7000" maxZ="-6000" rad="2700"> <!-- Core Boss -->
+		<node X="17716" Y="110112" />
+	</zone> 	
+	
+	<zone type="ChaoticZone" shape="Cuboid" minZ="-10730" maxZ="-10290"> <!-- Altar of Sacrifice -->
+		<node X="-18176" Y="-54972" />
+		<node X="-14614" Y="-51620" />
+	</zone>
+	
+	<zone type="ChaoticZone" shape="Cylinder" minZ="-2000" maxZ="-1500" rad="1500"><!-- Sailren's Nest -->
+		<node X="27513" Y="-6772" />
+	</zone>
+	<zone type="ChaoticZone" shape="Cuboid" minZ="-3494" maxZ="-668"> <!-- DVC CHAOTIC -->
+		<node X="135566" Y="107781" />
+		<node X="119949" Y="130302" />
+	</zone>
+	<zone type="ChaoticZone" shape="Cuboid" minZ="-3428" maxZ="-1134"> <!-- DVC CHAOTIC 2 -->
+		<node X="130782" Y="117197" />
+		<node X="102743" Y="104201" />
+	</zone>
+	<zone type="ChaoticZone" shape="Cuboid" minZ="-3656" maxZ="-3632"> <!-- DVC CHAOTIC 3 -->
+		<node X="131029" Y="113926" />
+		<node X="118472" Y="119768" />
+	</zone>
+	<zone type="ChaoticZone" shape="NPoly" minZ="-4000" maxZ="-3000"><!-- DVC AREA -->
+		<node X="130968" Y="115304" />
+		<node X="125960" Y="119128" />
+		<node X="121304" Y="122104" />
+		<node X="116072" Y="123288" />
+		<node X="108920" Y="113640" />
+		<node X="113451" Y="103098" />
+		<node X="131544" Y="104008" />
+		<node X="131016" Y="113944" />
+	</zone>
+	<zone type="ChaoticZone" shape="NPoly" minZ="-4000" maxZ="-3000"><!-- ZAKEN AREA -->
+		<node X="185352" Y="-182808" />
+		<node X="184104" Y="-183768" />
+		<node X="184664" Y="-184904" />
+		<node X="185480" Y="-187000" />
+		<node X="186744" Y="-187064" />
+		<node X="187704" Y="-185464" />
+		<node X="187400" Y="-183464" />
+		<node X="185288" Y="-182888" />
+	</zone>
+         <zone type="ChaoticZone" shape="Cylinder" minZ="-5000" maxZ="-4800" rad="10000"><!-- hekaton -->
+		<node X="148017" Y="-74012" />
+	</zone>
+        <zone type="ChaoticZone" shape="Cylinder" minZ="-6100" maxZ="-5500" rad="20000"><!-- tayr -->
+		<node X="145432" Y="-83240" />
+	</zone>
+        <zone type="ChaoticZone" shape="Cylinder" minZ="-6500" maxZ="-6100" rad="20000"><!-- brakki -->
+		<node X="145256" Y="-84856" />
+	</zone>
+
+        <zone type="ChaoticZone" shape="Cylinder" minZ="-2700" maxZ="-2300" rad="10000"><!-- shadith -->
+		<node X="115576" Y="-39128" />
+	</zone>
+
+        <zone type="ChaoticZone" shape="Cylinder" minZ="-2400" maxZ="-1600" rad="20000"><!--horus -->
+		<node X="105544" Y="-42952" />
+	</zone>
+
+        <zone type="ChaoticZone" shape="Cylinder" minZ="-1700" maxZ="-500" rad="20000"><!-- moss -->
+		<node X="109624" Y="-34712" />
+	</zone>
+</list>

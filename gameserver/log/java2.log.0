@@ -1,0 +1,67 @@
+17-01-2018 21:36:14	INFO	1	net.sf.l2j.commons.lang.StringUtil	---------------------------------------------------------------------=[ aCis ]
+17-01-2018 21:36:14	INFO	1	net.sf.l2j.Config	Loading gameserver configuration files.
+17-01-2018 21:36:14	INFO	9	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+17-01-2018 21:36:14	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.commons.lang.StringUtil	---------------------------------------------------------------=[ ThreadPool ]
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.commons.concurrent.ThreadPool	ThreadPool: Initialized 16/8589934588 scheduled, 8/8 instant thread(s).
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.commons.lang.StringUtil	----------------------------------------------------------------=[ IdFactory ]
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.idfactory.IdFactory	Updated characters online status.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.idfactory.IdFactory	Cleaned 0 elements from database.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.idfactory.IdFactory	Cleaned 0 expired timestamps from database.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.idfactory.BitSetIDFactory	IDFactory: 102912 id's available.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.commons.lang.StringUtil	--------------------------------------------------------------------=[ World ]
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.model.World	World: WorldRegion grid (88 by 128) is now setted up.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.datatables.MapRegionTable	MapRegionTable: Loaded 176 regions.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.datatables.AnnouncementTable	AnnouncementTable: Loaded 0 announcements.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.gameserver.datatables.ServerMemo	ServerMemo: Loaded 0 variables.
+17-01-2018 21:36:15	INFO	1	net.sf.l2j.commons.lang.StringUtil	-------------------------------------------------------------------=[ Skills ]
+17-01-2018 21:36:16	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	FishingSkillTreeTable: Loaded 109 general skills.
+17-01-2018 21:36:16	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	DwarvenCraftSkillTreeTable: Loaded 8 dwarven skills.
+17-01-2018 21:36:16	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	EnchantSkillTreeTable: Loaded 30 enchant types and 14550 enchant skills.
+17-01-2018 21:36:16	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	PledgeSkillTreeTable: Loaded 64 pledge skills.
+17-01-2018 21:36:17	INFO	1	net.sf.l2j.gameserver.datatables.SkillTable	SkillTable: Loaded 29621 skills.
+17-01-2018 21:36:17	INFO	1	net.sf.l2j.commons.lang.StringUtil	--------------------------------------------------------------------=[ Items ]
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9700
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9701
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9702
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9703
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9704
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9705
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9706
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9707
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9709
+17-01-2018 21:36:18	WARNING	1	net.sf.l2j.gameserver.skills.DocumentBase	Cannot create item 9710
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.ItemTable	ItemTable: Highest used itemID : 9228
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.SummonItemsData	SummonItemsData: Loaded 14 templates.
+17-01-2018 21:36:18	CONFIG	1	net.sf.l2j.gameserver.datatables.BuyListTable	BuyListTable: Loaded 625 buylists.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.MultisellData	MultisellData: Loaded 110 files.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.RecipeTable	RecipeTable: Loaded 871 recipes.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.ArmorSetsTable	ArmorSetsTable: Loaded 54 armor sets.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.FishTable	FishTable: Loaded 270 fishes.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	SpellbookTable: Loaded 334 spellbooks.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.SoulCrystalsTable	SoulCrystalsTable: Loaded 39 SC data and 124 NPC data.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	AugmentationData: Loaded 4 sets of 52 augmentation stats.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	AugmentationData: Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.instancemanager.CursedWeaponsManager	CursedWeaponsManager: Loaded 2 cursed weapons.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.commons.lang.StringUtil	-------------------------------------------------------------------=[ Admins ]
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.AccessLevels	AccessLevels: Loaded 5 accesses.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.AdminCommandAccessRights	AdminCommandAccessRights: Loaded 259 rights.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.BookmarkTable	BookmarkTable: Restored 0 bookmarks.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.commons.lang.StringUtil	---------------------------------------------------------------=[ Characters ]
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.CharTemplateTable	CharTemplateTable: Loaded 89 character templates.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.CharTemplateTable	CharTemplateTable: Loaded 89 classes skills trees.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.CharNameTable	CharNameTable: Loaded 0 players data.
+17-01-2018 21:36:18	CONFIG	1	net.sf.l2j.gameserver.datatables.HennaTable	HennaTable: Loaded 180 templates.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.HelperBuffTable	HelperBuffTable: Loaded 14 buffs.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.TeleportLocationTable	TeleportLocationTable: Loaded 696 templates.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.instancemanager.RaidBossPointsManager	RaidBossPointsManager: Loaded 0 characters with Raid Points infos.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.commons.lang.StringUtil	---------------------------------------------------------=[ Community server ]
+17-01-2018 21:36:18	CONFIG	1	net.sf.l2j.gameserver.GameServer	Community server is disabled.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.commons.lang.StringUtil	--------------------------------------------------------------------=[ Clans ]
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.cache.CrestCache	CrestCache: Loaded 0 crest files.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.datatables.ClanTable	ClanTable: Restored 0 clans.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.instancemanager.AuctionManager	AuctionManager: Loaded 38 auction(s)
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded 0 clan halls.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded 44 free clan halls.
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.commons.lang.StringUtil	----------------------------------------------------=[ Geodata & Pathfinding ]
+17-01-2018 21:36:18	INFO	1	net.sf.l2j.gameserver.geoengine.GeoEngine	GeoEngine: Initializing...

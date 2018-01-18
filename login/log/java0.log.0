@@ -1,0 +1,21 @@
+18-01-2018 00:25:34	INFO	1	net.sf.l2j.commons.lang.StringUtil	---------------------------------------------------------------------=[ aCis ]
+18-01-2018 00:25:34	INFO	1	net.sf.l2j.Config	Loading loginserver configuration files.
+18-01-2018 00:25:34	INFO	11	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+18-01-2018 00:25:34	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+18-01-2018 00:25:35	INFO	1	net.sf.l2j.commons.lang.StringUtil	----------------------------------------------------------=[ LoginController ]
+18-01-2018 00:25:35	INFO	1	net.sf.l2j.loginserver.LoginController	Loading LoginController...
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.LoginController	Stored 20 keys for Blowfish communication.
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 127 server names.
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 1 registered gameserver(s).
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.GameServerTable	Cached 10 RSA keys for gameserver communication.
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.commons.lang.StringUtil	-----------------------------------------------------------------=[ Ban List ]
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Loaded 0 IP(s) from banned_ip.cfg.
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.commons.lang.StringUtil	-------------------------------------------------=[ IP, Ports & Socket infos ]
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Listening for gameservers on localhost:9014
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Loginserver ready on *:2106
+18-01-2018 00:25:36	INFO	1	net.sf.l2j.commons.lang.StringUtil	--------------------------------------------=[ Waiting for gameserver answer ]
+18-01-2018 00:26:05	INFO	22	net.sf.l2j.loginserver.GameServerThread	Hooked gameserver: [1] Bartz
+18-01-2018 00:26:05	INFO	22	net.sf.l2j.loginserver.GameServerThread	Internal/External IP(s): 127.0.0.1/kingl2host.ddns.net
+18-01-2018 00:32:33	INFO	24	net.sf.l2j.loginserver.LoginController	Auto created account 'king'.
+18-01-2018 00:36:10	INFO	24	net.sf.l2j.loginserver.LoginController	Auto created account 'demo'.

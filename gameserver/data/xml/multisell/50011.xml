@@ -1,0 +1,189 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Elven Necklace -->
+  <item id="1">
+    <ingredient id="57" count="1"/>
+    <production id="913" count="1"/>
+  </item>
+
+  <!-- Elven Earring -->
+  <item id="2">
+    <ingredient id="57" count="1"/>
+    <production id="850" count="1"/>
+  </item>
+
+  <!-- Elven Earring -->
+  <item id="3">
+    <ingredient id="57" count="1"/>
+    <production id="850" count="1"/>
+  </item>
+
+  <!-- Elven Ring -->
+  <item id="4">
+    <ingredient id="57" count="1"/>
+    <production id="881" count="1"/>
+  </item>
+
+  <!-- Elven Ring -->
+  <item id="5">
+    <ingredient id="57" count="1"/>
+    <production id="881" count="1"/>
+  </item>
+
+  <!-- Necklace of Protection -->
+  <item id="6">
+    <ingredient id="57" count="1"/>
+    <production id="916" count="1"/>
+  </item>
+
+  <!-- Necklace of Mermaid -->
+  <item id="7">
+    <ingredient id="57" count="1"/>
+    <production id="917" count="1"/>
+  </item>
+
+  <!-- Earring of Protection -->
+  <item id="8">
+    <ingredient id="57" count="1"/>
+    <production id="853" count="1"/>
+  </item>
+
+  <!-- Earring of Protection -->
+  <item id="9">
+    <ingredient id="57" count="1"/>
+    <production id="853" count="1"/>
+  </item>
+
+  <!-- Earring of Binding -->
+  <item id="10">
+    <ingredient id="57" count="1"/>
+    <production id="854" count="1"/>
+  </item>
+
+  <!-- Earring of Binding -->
+  <item id="11">
+    <ingredient id="57" count="1"/>
+    <production id="854" count="1"/>
+  </item>
+
+  <!-- Ring of Ages -->
+  <item id="12">
+    <ingredient id="57" count="1"/>
+    <production id="885" count="1"/>
+  </item>
+
+  <!-- Ring of Ages -->
+  <item id="13">
+    <ingredient id="57" count="1"/>
+    <production id="885" count="1"/>
+  </item>
+
+  <!-- Aquastone Ring -->
+  <item id="14">
+    <ingredient id="57" count="1"/>
+    <production id="883" count="1"/>
+  </item>
+
+  <!-- Aquastone Ring -->
+  <item id="15">
+    <ingredient id="57" count="1"/>
+    <production id="883" count="1"/>
+  </item>
+
+  <!-- Earring of Black Ore -->
+  <item id="16">
+    <ingredient id="57" count="1"/>
+    <production id="864" count="1"/>
+  </item>
+
+  <!-- Earring of Black Ore -->
+  <item id="17">
+    <ingredient id="57" count="1"/>
+    <production id="864" count="1"/>
+  </item>
+
+  <!-- Ring of Black Ore -->
+  <item id="18">
+    <ingredient id="57" count="1"/>
+    <production id="895" count="1"/>
+  </item>
+
+  <!-- Ring of Black Ore -->
+  <item id="19">
+    <ingredient id="57" count="1"/>
+    <production id="895" count="1"/>
+  </item>
+
+  <!-- Necklace of Black Ore -->
+  <item id="20">
+    <ingredient id="57" count="1"/>
+    <production id="926" count="1"/>
+  </item>
+
+  <!-- Sealed Phoenix Ring -->
+  <item id="21">
+    <ingredient id="57" count="1"/>
+    <production id="6325" count="1"/>
+  </item>
+
+  <!-- Sealed Phoenix Ring -->
+  <item id="22">
+    <ingredient id="57" count="1"/>
+    <production id="6325" count="1"/>
+  </item>
+
+  <!-- Sealed Phoenix Earring -->
+  <item id="23">
+    <ingredient id="57" count="1"/>
+    <production id="6324" count="1"/>
+  </item>
+
+  <!-- Sealed Phoenix Earring -->
+  <item id="24">
+    <ingredient id="57" count="1"/>
+    <production id="6324" count="1"/>
+  </item>
+
+  <!-- Sealed Phoenix Necklace -->
+  <item id="25">
+    <ingredient id="57" count="1"/>
+    <production id="6323" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Necklace -->
+  <item id="26">
+    <ingredient id="57" count="1"/>
+    <production id="6326" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Earring -->
+  <item id="27">
+    <ingredient id="57" count="1"/>
+    <production id="6327" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Earring -->
+  <item id="28">
+    <ingredient id="57" count="1"/>
+    <production id="6327" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Ring -->
+  <item id="29">
+    <ingredient id="57" count="1"/>
+    <production id="6328" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Ring -->
+  <item id="30">
+    <ingredient id="57" count="1"/>
+    <production id="6328" count="1"/>
+  </item>
+
+
+</list>

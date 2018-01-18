@@ -1,0 +1,270 @@
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9700
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9701
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9702
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9703
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9704
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9705
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9706
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9707
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9709
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
+jan 17, 2018 9:36:16 PM net.sf.l2j.gameserver.skills.DocumentItem parseDocument
+ADVERTÊNCIA: Cannot create item 9710
+java.lang.reflect.InvocationTargetException
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:169)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseItem(DocumentItem.java:131)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parseDocument(DocumentItem.java:87)
+	at net.sf.l2j.gameserver.skills.DocumentBase.parse(DocumentBase.java:110)
+	at net.sf.l2j.gameserver.skills.DocumentItem.parse(DocumentItem.java:34)
+	at net.sf.l2j.gameserver.datatables.ItemTable.load(ItemTable.java:100)
+	at net.sf.l2j.gameserver.datatables.ItemTable.<init>(ItemTable.java:89)
+	at net.sf.l2j.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:267)
+	at net.sf.l2j.gameserver.datatables.ItemTable.getInstance(ItemTable.java:84)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:170)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:408)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at net.sf.l2j.gameserver.skills.DocumentItem.makeItem(DocumentItem.java:165)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: No enum constant net.sf.l2j.gameserver.model.item.type.MaterialType.adamantaite
+	at java.lang.Enum.valueOf(Unknown Source)
+	at net.sf.l2j.gameserver.templates.StatsSet.getEnum(StatsSet.java:407)
+	at net.sf.l2j.gameserver.model.item.kind.Item.<init>(Item.java:140)
+	at net.sf.l2j.gameserver.model.item.kind.Weapon.<init>(Weapon.java:88)
+	... 14 more
+
